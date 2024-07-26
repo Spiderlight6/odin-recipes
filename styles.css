@@ -1,3 +1,16 @@
 body{
     background-color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.links{
+    background-color: #33d133;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+.div1{
+    background-color: #5ac95ab7;
+    
+
 }
